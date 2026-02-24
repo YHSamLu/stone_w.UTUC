@@ -20,4 +20,8 @@ Bor-En Jong, MD; Hsi-Chin Wu, MD, MS; Wen-Chi Chen, MD, PhD; Wen-Jeng Wu, MD, Ph
 
 **Conclusions and Relevance**  In this cohort study of patients with UTUC who underwent radical nephroureterectomy, a history of urinary tract stones was associated with inferior CSS and DFS, suggesting that patients with UTUC and stone history may represent a higher-risk subgroup that could warrant intensified surveillance and consideration of tailored adjuvant therapy.
 
+### Survival Curve (Kaplan–Meier Survival Curve)
+
 ![](https://github.com/YiHsinLu/stone_w.UTUC/blob/main/figures/CSSoverlap.wmf)
+
+![](https://github.com/YiHsinLu/stone_w.UTUC/blob/main/figures/DFSoverlap.wmf)
